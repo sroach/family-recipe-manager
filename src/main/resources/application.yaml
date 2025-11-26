@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: family-recipe-manager
+server:
+  port: 8300

@@ -1,0 +1,3 @@
+= Recipe Manager
+
+manager app for maintaining cooking recipes
